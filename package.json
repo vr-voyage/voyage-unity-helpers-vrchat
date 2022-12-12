@@ -1,0 +1,16 @@
+{
+    "name" : "io.github.vr-voyage.myyhelpers.vrc-avatars",
+    "displayName" : "Voyage C# Editor Helpers : Avatars",
+    "version" : "1.0.0",
+    "unity" : "2019.4",
+    "description" : "Voyage's C# libraries providing helpers for creating VRChat Avatars tools.",
+    "vpmDependencies" : {
+      "io.github.vr-voyage.myyhelpers": "1.x",
+      "com.vrchat.avatars": "3.x"
+    },
+    "url" : "https://github.com",
+    "legacyFolders" : {
+      "Assets\\Voyage\\ObjectsFixer\\MyyHelpers" : "",
+      "Assets\\Voyage\\MyyHelpers": ""
+    }
+}
